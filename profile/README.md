@@ -8,8 +8,8 @@ Hi, this organization is dedicated to the StarCraft II C++ API.
 
 There are many more [useful resources](https://github.com/aiarena/awesome-sc2-ai) related to the game and frameworks.
 
-## Contributing
-### How can I help?
+## Contributing (We need your help!)
+If you would like to contribute to cpp-sc2, help us improve the library and maintain high quality, there is number of ways to do it.
 
 - [ ] Search for other issues tagged [with `good first issue` or `help wanted` tag](https://github.com/cpp-sc2/cpp-sc2/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 - [ ] Suggest new features.
