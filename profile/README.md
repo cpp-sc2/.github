@@ -18,7 +18,7 @@ If you would like to contribute to cpp-sc2, help us improve the library and main
 - [ ] Fix spelling :)
 - [ ] Add/Fix/Improve tutorials, bot examples and tests.
 - [ ] Help to test latest changes.
-- [ ] Support this project on [Boosty](https://boosty.to/cpp-sc2) (preferred) or [Patreon](https://www.patreon.com/cppsc2). Support of the project allows to make releases more often and implement nice new features for developers.
+- [ ] Support this project on [Boosty](https://boosty.to/cpp-sc2). Support of the project allows to make releases more often and implement nice new features for developers.
 
 If you have any suggestions, feel free to message over [Discord](https://discordapp.com/invite/Emm5Ztz) (the `#cpp` channel).
 
