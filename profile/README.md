@@ -2,8 +2,8 @@
 Hi, this organization is dedicated to the StarCraft II C++ API.
 
 - **[cpp-sc2](https://github.com/cpp-sc2/cpp-sc2)** - implemnetation of the C++ API, forked from Blizzard's [s2client-api](https://github.com/Blizzard/s2client-api).
-- **[blank-bot](https://github.com/cpp-sc2/blank-bot)** - starter bot for StarCraft II with integrated cpp-sc2;
-- **[commandcenter](https://github.com/cpp-sc2/commandcenter)** - original version of CommandCenter bot with integrated cpp-sc2;
+- **[blank-bot](https://github.com/cpp-sc2/blank-bot)** - starter bot for StarCraft II with integrated cpp-sc2.
+- **[commandcenter](https://github.com/cpp-sc2/commandcenter)** - original version of CommandCenter bot with integrated cpp-sc2.
 - **[docker-sc2](https://github.com/cpp-sc2/docker-sc2)** - dockerized StarCraft II Linux client.
 
 There are many more [useful resources](https://github.com/aiarena/awesome-sc2-ai) related to the game and frameworks.
