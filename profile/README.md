@@ -20,7 +20,7 @@ If you would like to contribute to cpp-sc2, help us improve the library and main
 - [ ] Help to test latest changes.
 - [ ] Support this project on [Boosty](https://boosty.to/cpp-sc2). Support of the project allows to make releases more often and implement nice new features for developers.
 
-If you have any suggestions, feel free to message over [Discord](https://discordapp.com/invite/Emm5Ztz) (the `#cpp` channel).
+If you have any suggestions, feel free to message over [Discord](https://discord.gg/YurYAgHRSw) (the `#cpp` channel).
 
 ### What should I know before the start?
 
@@ -29,7 +29,6 @@ We do our best to conform to [the Google C++ Style Guide](https://google.github.
 
 **Commit guidelines**
 We follow the semantic versioning approach, this is important so your PR will appear on the Changelog 🎉 ! I guess you expect recognition and we will give it to you.
-See [standard-version](https://github.com/conventional-changelog/standard-version#commit-message-convention-at-a-glance) for commit guidelines.
 
 The list of supported commit message prefixes:
 
@@ -41,7 +40,7 @@ The list of supported commit message prefixes:
 - `build` - build system improvements,  also includes CI improvements;
 - `docs` - documentation improvements;
 - `chore` - routine task, e.g. create new release (doesn't appear in the changelog);
-- `style` - fix code style, no functional changes (doesn't appear in the changelog.
+- `style` - fix code style, no functional changes.
 
 ### Before PR
 
