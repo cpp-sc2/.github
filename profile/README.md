@@ -37,7 +37,7 @@ The list of supported commit message prefixes:
 - `perf` - performance improvements;
 - `refactor` - code refactoring;
 - `test` - functional or unit tests;
-- `build` - build system improvements,  also includes CI improvements;
+- `build` - build system improvements, also includes CI improvements;
 - `docs` - documentation improvements;
 - `chore` - routine task, e.g. create new release (doesn't appear in the changelog);
 - `style` - fix code style, no functional changes.
